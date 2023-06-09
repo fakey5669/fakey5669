@@ -46,15 +46,16 @@
 # 💻  Projects(예정)
 
 
-## 커미션 연결 웹
+## 그림 외주 연결 웹
 
-- Slack
-- IntelliJ, Eclipse, VS Code
-- Git, Github
+- 우리만의 안전한 일러스트 외주 연결 공간
+    - 외주 업자와 업자의 별점을 검색하고 신뢰있는 작업자에게  
+    신청할 수 있다.
+    - 현재 작업의 진행 상태를 알 수 있다.
+    - Spring, Java
 
 [프로젝트 링크](https://github.com/fakey5669/hoyoverse-web)
 
-2023.9.1 ~ 
 
 # 🎈  Experiences
 
