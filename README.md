@@ -3,7 +3,7 @@
 ## Contact & Channels
 
 
-- **Email** | <a href="mailto:fakey5669@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fakey5669@gmail.com"/></a></p>
+- **Email** | [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fakey5669@gmail.com)](fakey5669@gmail.com)
 - **Blog** | [![Notion Badge](https://img.shields.io/badge/Notion-EE8208?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/bfc0e2dd20a34d5fa02a7088d7ab020a?v=b1d1b941843f4513b8d6bef183c7b868)](https://www.notion.so/bfc0e2dd20a34d5fa02a7088d7ab020a?v=b1d1b941843f4513b8d6bef183c7b868)
 
 ![fakey's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakey5669&show_icons=true&theme=radical)
